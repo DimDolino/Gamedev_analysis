@@ -1,7 +1,6 @@
-# Gamedev_analysis
-## Автор: <a href="https://github.com/DimDolino/" target="_blank">DimDolino</a>
-## Проект направлен на анализ мобильного приложения
-## В работе использован следующий стек:
+# Анализ мобильного приложения
+Анализ продуктовых метрик продукта геймдева
+## Стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?logo=seaborn&logoColor=white&style=for-the-badge)
